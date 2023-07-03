@@ -8,3 +8,6 @@ To view project:
 4) use the command 'npm install' to install all the necessery dependencies
 5) use the command 'npm run dev' to run a development server 
 6) click on the link provided inside of the terminal to view the application
+
+
+or use this link earnest-fenglisu-7d5c49.netlify.app
